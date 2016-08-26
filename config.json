@@ -1,0 +1,5 @@
+{
+    "food_file" : "foods.json",
+    "slack_token" : "i7R0ck1s9h8kHSYLT7sWbxF5",
+    "incoming_webhook_url" : "https://hooks.slack.com/services/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"
+}
