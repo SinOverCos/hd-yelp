@@ -1,0 +1,11 @@
+{
+    "filter_file" : "poke_filter.json",
+    "slack_token" : "IeKcIWl79963LBEeNWDG33Y5",
+    "interval" : 3000,
+    "username" : "hubdoc",
+    "password" : "HDHD$2011",
+    "provider" : "ptc",
+    "longitude" : 43.6976384,
+    "latitude" : -79.3954492,
+    "altitude" : 0
+}
