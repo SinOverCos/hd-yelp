@@ -1,6 +1,6 @@
 # hd-yelp
 
-Internal Yelp!
+Internal Yelp! slackbot.
 
 Able to add/delete restaurants and dishes, plus certain properties on each entry.
 For restaurants, set:
